@@ -5,7 +5,7 @@ from discord.ext import commands
 from stopwatch import Stopwatch
 from datetime import date
 
-token = "Nzk2MTkxMTQ1MjQzNzA1Mzg0.X_UUyQ.STt2hovf1_4FZM7iIsE_sAgzev4"
+token = "토큰은따로"
 app = commands.Bot(command_prefix='!')
 stopwatch_dic = {}
 app.remove_command('help')
